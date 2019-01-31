@@ -1,0 +1,21 @@
+### [Link](docs/Google-Smart-Home-Fan-Control.pdf) to PDF 
+
+![1](images/Github=Google-Smart-Home-Fan-Control-01.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-02.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-03.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-04.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-05.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-06.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-07.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-08.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-09.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-10.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-11.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-12.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-13.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-14.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-15.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-16.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-17.png)
+![1](images/Github=Google-Smart-Home-Fan-Control-18.png)
+
